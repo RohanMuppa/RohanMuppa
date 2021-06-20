@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan Muppa.
-- 👀 I’m interested in Computer Science, Cybersecurity, and Biotech.
-- 🌱 I’m currently learning Harvard CS50 Computer Science.
-- 💞️ I’m looking to collaborate on small startup projects and games.
+- 👀 I’m interested in Computer Science and Cybersecurity.
+- 🌱 I’m currently taking the Harvard CS50x Computer Science course.
+- 💞️ I’m looking to collaborate on small Python projects.
 - 📫 How to reach me: Email rohanmuppa123@gmail.com.
 
 <!---
