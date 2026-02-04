@@ -1,40 +1,26 @@
 ## hey, i'm rohan 👋
 
-i build things that make AI actually useful.
+i like building AI that actually does things. not chatbots that answer questions, but systems that take action: parse circuits, navigate campuses, interview candidates, make local government data accessible.
 
-right now i'm deep into **agentic systems**. not just chatbots, but AI that can reason, use tools, and take action autonomously. i think we're at the beginning of something big here.
+### what i'm into
 
-### what i'm exploring
+**agentic systems**: multi-agent pipelines, tool-using LLMs, RAG architectures. built a hiring system that conducts live technical interviews with voice, code execution, and fairness monitoring. currently exploring MCP and how to make AI interact with real-world tools.
 
-```
-tool-using AI       →  models that interact with real systems
-RAG architectures   →  LLMs that don't have to memorize everything  
-MCP                 →  bridges between AI and existing tools
-multi-agent systems →  when one agent isn't enough
-```
+**bridging hardware and software**: i'm a computer engineering major, so i think about both sides. built an AI that converts circuit schematics into 3D breadboard layouts. also built actual analog circuits (equalizers, timers). the intersection is interesting.
 
-### i believe
-
-the gap between "here's information" and "i did that for you" is where the real value is. i like building for specific communities rather than generic tools.
+**tools for specific communities**: i don't like building generic stuff. BoilerMaps for Purdue students. West Lafayette Wire for local civic data. BuilderBase for student founders. tools hit different when they're built for people you know.
 
 ### currently
 
-🎓 ECE @ Purdue  ·  🔧 Claude, LangChain, vector DBs  ·  🗺️ building campus tools
+- 🔧 ProtoCAD: AI circuit design platform
+- 🗺️ BoilerMaps: campus navigation + AI interface
+- 🏛️ West Lafayette Wire: civic intelligence engine
+- 🚀 BuildPurdue: helping student founders ship
+
+### background
+
+ECE @ Purdue. did ML research at Brown and UW on climate/remote sensing. interned at Exelcius doing synthetic data generation for fraud detection. now mostly building my own stuff.
 
 ---
 
-<details>
-<summary>🛠️ tech i use</summary>
-<br>
-
-**languages**: Python, Java, JavaScript, TypeScript, C, Go, Swift  
-**AI/ML**: Claude API, LangChain, RAG, vector databases (LanceDB, Pinecone)  
-**frontend**: React, Vite, Tailwind  
-**mobile**: Android (Java), iOS (Swift)  
-**tools**: MCP, Firebase, Mapbox, Git
-
-</details>
-
----
-
-*building something with agents? let's talk.*
+*if you're working on agentic systems or building for communities, let's talk.*
