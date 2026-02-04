@@ -24,13 +24,6 @@ the gap between "here's information" and "i did that for you" is where the real 
 ---
 
 <details>
-<summary>📊 github stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=RohanMuppa&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanMuppa&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</details>
-
-<details>
 <summary>🛠️ tech i use</summary>
 <br>
 
