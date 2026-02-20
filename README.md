@@ -2,20 +2,20 @@
 
 ECE @ Purdue. mostly work on agentic AI systems and like thinking about operating systems, Linux, compilers, C, and networking.
 
-I love building tools that solve specific problems for specific people.
+spend most of my time building tools that solve specific problems for specific people rather than generic stuff nobody ends up using.
 
 ## projects
 
-🔧 **[ProtoCAD](https://github.com/RohanMuppa)** - AI circuit design platform  
-🗺️ **[BoilerMaps](https://github.com/RohanMuppa)** - campus navigation with an AI layer  
-🏛️ **[West Lafayette Wire](https://github.com/RohanMuppa)** - civic data engine  
-🎯 **[Arete](https://github.com/RohanMuppa)** - agentic AI interview tool  
-📚 **[BoilerCoursesAI](https://github.com/RohanMuppa/BoilerCoursesAI)** - AI-powered academic workspace with local RAG and Brightspace integration  
 🔌 **[brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server)** - MCP server for Brightspace LMS  
-💰 **[Finance](https://github.com/RohanMuppa/Finance)** - full-stack investment simulation (CS50)  
-📖 **[PageFund](https://github.com/RohanMuppa/PageFund)** - stock market for books  
+📚 **[BoilerCoursesAI](https://github.com/RohanMuppa/BoilerCoursesAI)** - AI-powered academic workspace with local RAG and Brightspace integration  
 🌍 **[Purdue Campus Geoguessr](https://github.com/RohanMuppa/Purdue-Campus-Geoguessr)** - campus geoguessr game  
 🌱 **[GreenGarden](https://github.com/RohanMuppa/GreenGarden)** - garden management app  
+📖 **[PageFund](https://github.com/RohanMuppa/PageFund)** - stock market for books  
+💰 **[Finance](https://github.com/RohanMuppa/Finance)** - full-stack investment simulation (CS50)  
+🔧 **ProtoCAD** - AI circuit design platform  
+🗺️ **BoilerMaps** - campus navigation with an AI layer  
+🏛️ **West Lafayette Wire** - civic data engine  
+🎯 **Arete** - agentic AI interview tool  
 
 ## tools & languages
 
