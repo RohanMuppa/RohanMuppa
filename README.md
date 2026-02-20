@@ -2,7 +2,7 @@
 
 ECE @ Purdue. mostly work on agentic AI systems and like thinking about operating systems, Linux, compilers, C, and networking.
 
-spend most of my time building tools that solve specific problems for specific people rather than generic stuff nobody ends up using.
+I love building tools that solve specific problems for specific people.
 
 ## projects
 
