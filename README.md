@@ -6,12 +6,12 @@ I love building tools that solve specific problems for specific people.
 
 ## projects
 
-🔌 **[brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server)** - MCP server for Brightspace LMS  
-📚 **[BoilerCoursesAI](https://github.com/RohanMuppa/BoilerCoursesAI)** - AI-powered academic workspace with local RAG and Brightspace integration  
-🌍 **[Purdue Campus Geoguessr](https://github.com/RohanMuppa/Purdue-Campus-Geoguessr)** - campus geoguessr game  
-🌱 **[GreenGarden](https://github.com/RohanMuppa/GreenGarden)** - garden management app  
-📖 **[PageFund](https://github.com/RohanMuppa/PageFund)** - stock market for books  
-💰 **[Finance](https://github.com/RohanMuppa/Finance)** - full-stack investment simulation (CS50)  
+🔌 **brightspace-mcp-server** - MCP server for Brightspace LMS  
+📚 **BoilerCoursesAI** - AI-powered academic workspace with local RAG and Brightspace integration  
+🌍 **Purdue Campus Geoguessr** - campus geoguessr game  
+🌱 **GreenGarden** - garden management app  
+📖 **PageFund** - stock market for books  
+💰 **Finance** - full-stack investment simulation (CS50)  
 🔧 **ProtoCAD** - AI circuit design platform  
 🗺️ **BoilerMaps** - campus navigation with an AI layer  
 🏛️ **West Lafayette Wire** - civic data engine  
