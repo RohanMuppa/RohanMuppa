@@ -20,6 +20,7 @@ I love building tools that solve specific problems for specific people.
 ## contributing to
 ✴️ **Claude Code** - Contribute to Anthropic's open source Claude Code with my own features, and optimizations  
 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
+🎤 **Handy** - Live Text to Speech transcriber. Never use your keyboard again.
 
 ## tools & languages
 
