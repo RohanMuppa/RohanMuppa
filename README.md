@@ -18,8 +18,8 @@ I love building tools that solve specific problems for specific people.
 🎯 **Arete** - agentic AI interview tool  
 
 ## contributing to
-✴️ **Claude Code - Contribute to Anthropic's open source Claude Code with my own features, and optimizations 
-🤖 **Get-Shit-Done - An open source agent skill for streamlining agentic workflows that I contribute to
+✴️ **Claude Code** - Contribute to Anthropic's open source Claude Code with my own features, and optimizations  
+🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
 
 ## tools & languages
 
