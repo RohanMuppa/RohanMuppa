@@ -2,7 +2,7 @@
 
 ECE @ Purdue. Currently, I mostly work on agentic AI systems. I like exploring the subdomains of computer systems: operating systems, Linux, compilers, C, and networking.
 
-I love building tools that solve specific problems for specific people, so please reach out if you are have a niche demand for a project.
+I love building tools that solve specific problems for specific people, so please reach out if you would like to work on anything.
 
 ## projects
 
