@@ -17,7 +17,7 @@ I love building tools that solve specific problems for specific people, so pleas
 🏛️ **West Lafayette Wire** - civic data engine  
 
 ## Hackathon Projects
-🎯 **Arete** - agentic AI interview tool
+🎯 **Arete** - agentic AI interview tool 
 🌎 **Xperience** - API that transforms 2D media into curated interactive 3D simulations
 
 ## contributing to
