@@ -18,7 +18,7 @@ I love building tools that solve specific problems for specific people, so pleas
 
 ## Hackathon Projects
 🎯 **Arete** - agentic AI interview tool  
-🌎 **Xperience** - API that transforms 2D media into curated interactive 3D simulations
+🌎 **Xperience (UIUC)** - API that transforms 2D media into curated interactive 3D simulations
 
 ## contributing to
 ✴️ **Claude Code** - Contribute to Anthropic's open source Claude Code with my own features, and optimizations  
