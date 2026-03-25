@@ -19,7 +19,7 @@ I love building tools that solve specific problems for specific people, so pleas
 ## Hackathon Projects
 🎯 **Arete** - agentic AI interview tool  
 🌎 **Xperience (UIUC)** - API that transforms 2D media into curated interactive 3D simulations
-🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (Godot 4.6)
+🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (Godot 4.6, HONR 299)
 
 ## contributing to
 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to  
