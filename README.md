@@ -1,12 +1,10 @@
 # rohan muppa
 
-ECE @ Purdue. Currently, I mostly work on agentic AI systems. I like exploring the subdomains of computer systems: operating systems, Linux, compilers, C, and networking.
-
-I love building tools that solve specific problems for specific people, so please reach out if you would like to work on anything.
+ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
 ## projects
 
-⚡ **hstack** - hackathon command pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
+⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
 🔌 **brightspace-mcp-server** - MCP server for Brightspace LMS
 📚 **BoilerCoursesAI** - AI-powered academic workspace with local RAG and Brightspace integration  
 🌍 **Purdue Campus Geoguessr** - campus geoguessr game  
