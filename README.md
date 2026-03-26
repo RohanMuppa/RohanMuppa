@@ -4,24 +4,24 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
 ## projects
 
-⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build    
-📚 **brightspace-mcp-server** - MCP server for Brightspace LMS 
--🌍 **Purdue Campus Geoguessr** - campus geoguessr game  
-🌱 **GreenGarden** - garden management app  
-📖 **PageFund** - stock market for books  
-💰 **Finance** - full-stack investment simulation (CS50)  
-🔧 **ProtoCAD** - AI circuit design platform  
-🗺️ **BoilerMaps** - campus navigation with an AI layer  
-🏛️ **West Lafayette Wire** - civic data engine  
+- ⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
+- 📚 **brightspace-mcp-server** - MCP server for Brightspace LMS
+- 🌍 **Purdue Campus Geoguessr** - campus geoguessr game
+- 🌱 **GreenGarden** - garden management app
+- 📖 **PageFund** - stock market for books
+- 💰 **Finance** - full-stack investment simulation (CS50)
+- 🔧 **ProtoCAD** - AI circuit design platform
+- 🗺️ **BoilerMaps** - campus navigation with an AI layer
+- 🏛️ **West Lafayette Wire** - civic data engine
 
 ## Hackathon Projects
-🎯 **Arete** - agentic AI interview tool  
-🌎 **Xperience (UIUC)** - API that transforms 2D media into curated interactive 3D simulations
-🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (Godot 4.6, HONR 299)
+- 🎯 **Arete** - agentic AI interview tool
+- 🌎 **Xperience (UIUC)** - API that transforms 2D media into curated interactive 3D simulations
+- 🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (Godot 4.6, HONR 299)
 
 ## contributing to
-🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to  
-🎤 **Handy** - Live Text to Speech transcriber. Never use your keyboard again.
+- 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
+- 🎤 **Handy** - Live Text to Speech transcriber. Never use your keyboard again.
 
 ## tools & languages
 
