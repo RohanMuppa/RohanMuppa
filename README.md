@@ -6,7 +6,8 @@ I love building tools that solve specific problems for specific people, so pleas
 
 ## projects
 
-🔌 **brightspace-mcp-server** - MCP server for Brightspace LMS  
+⚡ **hstack** - hackathon command pack for Claude Code: 14 commands + Devpost MCP to go from ideation to demo script
+🔌 **brightspace-mcp-server** - MCP server for Brightspace LMS
 📚 **BoilerCoursesAI** - AI-powered academic workspace with local RAG and Brightspace integration  
 🌍 **Purdue Campus Geoguessr** - campus geoguessr game  
 🌱 **GreenGarden** - garden management app  
