@@ -4,8 +4,7 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
 ## projects
 
-⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
-
+⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build 
 🔌 **brightspace-mcp-server** - MCP server for Brightspace LMS
 -🌍 **Purdue Campus Geoguessr** - campus geoguessr game  
 🌱 **GreenGarden** - garden management app  
