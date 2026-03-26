@@ -6,7 +6,7 @@ I love building tools that solve specific problems for specific people, so pleas
 
 ## projects
 
-⚡ **hstack** - Claude Code commands for hackathon ideation, scoping, demo scripting, and Devpost submission
+⚡ **hstack** - hackathon command pack for Claude Code: ideation, planning, presentation, and submission
 🔌 **brightspace-mcp-server** - MCP server for Brightspace LMS
 📚 **BoilerCoursesAI** - AI-powered academic workspace with local RAG and Brightspace integration  
 🌍 **Purdue Campus Geoguessr** - campus geoguessr game  
