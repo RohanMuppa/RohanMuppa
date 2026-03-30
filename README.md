@@ -15,9 +15,10 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 - 🏛️ **West Lafayette Wire** - civic data engine
 
 ## Hackathon Projects
-- 🎯 **Arete** - agentic AI interview tool
-- 🌎 **Xperience (UIUC)** - API that transforms 2D media into curated interactive 3D simulations
-- 🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (Godot 4.6, HONR 299)
+- 🎯 **Arete (Nexhacks 2026)** - agentic AI interview tool
+- 🌎 **Xperience (UIUC 2026)** - API that transforms 2D media into curated interactive 3D simulations
+- 🦑 **Squid (HackIndy 2026 Winner)** - Trust layer for agentic transactions. Think PayPal for AI agents.
+- 🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (HONR 299 Course)
 
 ## contributing to
 - 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
