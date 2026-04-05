@@ -19,7 +19,7 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 - 🌎 **Xperience (UIUC 2026)** - API that transforms 2D media into curated interactive 3D simulations
 - 🦑 **Squid (HackIndy 2026 Winner)** - Trust layer for agentic transactions. Think PayPal for AI agents.
 - 🥬 **C3 Game Jam** - game exploring Latvia's short food supply chain resilience during COVID-19 (HONR 299 Course)
-- 🔒 **SIQUR (Catapult 2026 Winner)** - Intelligent surveillance suite: optimal camera placement, 3D Gaussian splat world model, and crowdsourced forensics
+- 🔒 **SIQUR (Catapult 2026 Winner)** - Intelligent surveillance suite: optimal camera placement, 3D Gaussian splat world model
 
 ## contributing to
 - 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
