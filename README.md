@@ -8,6 +8,21 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
   <img alt="3d contribution graph" src="./profile-3d-contrib/profile-dark.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
+</picture>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanMuppa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanMuppa&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="top languages" height="165" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanMuppa&theme=transparent&hide_border=true" alt="streak stats" />
+</p>
+
 ## projects
 
 - ⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
