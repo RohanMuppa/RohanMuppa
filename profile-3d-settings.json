@@ -1,36 +1,30 @@
 [
   {
-    "type": "normal",
+    "type": "rainbow",
     "fileName": "profile-dark.svg",
-    "backgroundColor": "#0d1117",
+    "backgroundColor": "none",
     "foregroundColor": "#e6edf3",
     "strongColor": "#e6edf3",
     "weakColor": "#7d8590",
-    "radarColor": "#58a6ff",
+    "radarColor": "rgb(255,200,55)",
     "growingAnimation": true,
-    "contribColors": [
-      "#161b22",
-      "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353"
-    ]
+    "saturation": "60%",
+    "contribLightness": ["20%", "35%", "45%", "55%", "65%"],
+    "duration": "10s",
+    "hueRatio": -7
   },
   {
-    "type": "normal",
+    "type": "rainbow",
     "fileName": "profile-light.svg",
-    "backgroundColor": "#ffffff",
+    "backgroundColor": "none",
     "foregroundColor": "#1f2328",
     "strongColor": "#1f2328",
     "weakColor": "#656d76",
-    "radarColor": "#0969da",
+    "radarColor": "rgb(255,140,0)",
     "growingAnimation": true,
-    "contribColors": [
-      "#ebedf0",
-      "#9be9a8",
-      "#40c463",
-      "#30a14e",
-      "#216e39"
-    ]
+    "saturation": "70%",
+    "contribLightness": ["30%", "40%", "50%", "55%", "60%"],
+    "duration": "10s",
+    "hueRatio": -7
   }
 ]
