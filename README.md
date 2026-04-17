@@ -2,7 +2,10 @@
 
 ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
-![3d contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg">
+  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-light.svg">
+</picture>
 
 ## projects
 
