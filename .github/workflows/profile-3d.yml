@@ -23,6 +23,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-settings.json
 
+      - name: strip pie chart from svgs
+        run: node scripts/strip-pie.js
+
       - name: commit & push
         run: |
           git config user.name "github-actions[bot]"
