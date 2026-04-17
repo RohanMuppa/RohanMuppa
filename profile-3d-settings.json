@@ -11,7 +11,15 @@
     "saturation": "50%",
     "contribLightness": ["20%", "30%", "35%", "40%", "50%"],
     "duration": "10s",
-    "hueRatio": -7
+    "hueRatio": -7,
+    "l10n": {
+      "commit": "Commit",
+      "repo": "Repo",
+      "review": "Review",
+      "pullreq": "PullReq",
+      "issue": "Issue",
+      "contrib": "contributions past year"
+    }
   },
   {
     "type": "rainbow",
@@ -25,6 +33,14 @@
     "saturation": "50%",
     "contribLightness": ["20%", "30%", "35%", "40%", "50%"],
     "duration": "10s",
-    "hueRatio": -7
+    "hueRatio": -7,
+    "l10n": {
+      "commit": "Commit",
+      "repo": "Repo",
+      "review": "Review",
+      "pullreq": "PullReq",
+      "issue": "Issue",
+      "contrib": "contributions past year"
+    }
   }
 ]
