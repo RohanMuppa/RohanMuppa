@@ -2,6 +2,8 @@
 
 ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
+![3d contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## projects
 
 - ⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
