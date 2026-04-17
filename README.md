@@ -15,12 +15,12 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 </picture>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanMuppa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanMuppa&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanMuppa&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&include_all_commits=true&count_private=true" alt="github stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanMuppa&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=e6edf3&langs_count=8" alt="top languages" height="165" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanMuppa&theme=transparent&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=RohanMuppa&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590" alt="streak stats" />
 </p>
 
 ## projects
