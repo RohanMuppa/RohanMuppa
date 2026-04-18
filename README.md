@@ -2,8 +2,6 @@
 
 ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/RohanMuppa)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg">
@@ -42,6 +40,10 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 ## contributing to
 - 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
 - 🎤 **Handy** - Live Text to Speech transcriber. Never use your keyboard again.
+
+## links
+
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/RohanMuppa)
 
 ## tools & languages
 
