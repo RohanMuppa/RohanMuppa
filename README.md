@@ -8,14 +8,8 @@ ECE @ Purdue. Currently, I mostly work on agentic AI systems.
   <img alt="3d contribution graph" src="./profile-3d-contrib/profile-dark.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
-</picture>
-
 <p>
-  <img src="https://streak-stats.demolab.com/?user=RohanMuppa&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=RohanMuppa&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6ed[...]"></img>
 </p>
 
 ## projects
