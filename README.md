@@ -3,19 +3,13 @@
 ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg">
-  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-dark.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
 </picture>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=RohanMuppa&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6ed[...]"></img>
+  <img src="https://streak-stats.demolab.com/?user=RohanMuppa&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6edf3&dates=8b949e&sideNums=e6edf3&theme=dark"></img>
 </p>
 
 ## projects
