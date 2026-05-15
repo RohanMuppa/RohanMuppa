@@ -3,6 +3,12 @@
 ECE @ Purdue. Currently, I mostly work on agentic AI systems.
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg">
+  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-dark.svg">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake.svg">
