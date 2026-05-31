@@ -1,7 +1,6 @@
 # rohan muppa
 
-ECE @ Purdue. Currently, I mostly work on agentic AI systems.
-
+ECE @ Purdue
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg">
