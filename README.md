@@ -1,11 +1,7 @@
 # rohan muppa
 
 ECE @ Purdue
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg">
-  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-dark.svg">
-</picture>
+<img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-green.svg">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanMuppa/RohanMuppa/output/snake-dark.svg">
