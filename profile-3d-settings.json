@@ -1,0 +1,21 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-night-green.svg",
+    "backgroundColor": "none",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "#47a042",
+    "growingAnimation": true,
+    "contribColors": ["#444444", "#1B7D28", "#24A736", "#2DD143", "#57DA69"],
+    "l10n": {
+      "commit": "Commit",
+      "repo": "Repo",
+      "review": "Review",
+      "pullreq": "PullReq",
+      "issue": "Issue",
+      "contrib": "contributions past year"
+    }
+  }
+]
