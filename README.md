@@ -31,8 +31,6 @@ ECE @ Purdue
 - 🏆 **Supply Shock** (C3 Game Jam Winner) - game exploring Latvia's short food supply chain resilience during COVID-19 (HONR 299 Course)
 - 🏆 **SIQUR** (Catapult 2026 Winner) - Intelligent surveillance suite: optimal camera placement, 3D Gaussian splat world model, and AI video intelligence search
 
-## contributing to
-
 ## links
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/RohanMuppa)
