@@ -23,9 +23,7 @@ ECE @ Purdue
 - 📖 **PageFund** - stock market for books
 - 💰 **Finance** - full-stack investment simulation (CS50)
 - 🔧 **ProtoCAD** - AI circuit design platform
-- 🗺️ **BoilerMaps** - campus navigation with an AI layer
-- 🏛️ **West Lafayette Wire** - civic data engine
-
+  
 ## Hackathon Projects
 - 🎯 **Arete** (Nexhacks 2026) - agentic AI interview tool
 - 🌎 **Xperience** (UIUC 2026) - API that transforms 2D media into curated interactive 3D simulations
