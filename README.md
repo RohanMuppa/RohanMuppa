@@ -32,8 +32,6 @@ ECE @ Purdue
 - 🏆 **SIQUR** (Catapult 2026 Winner) - Intelligent surveillance suite: optimal camera placement, 3D Gaussian splat world model, and AI video intelligence search
 
 ## contributing to
-- 🤖 **Get-Shit-Done** - An open source agent skill for streamlining agentic workflows that I contribute to
-- 🎤 **Handy** - Live Text to Speech transcriber. Never use your keyboard again.
 
 ## links
 
