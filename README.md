@@ -17,6 +17,8 @@ ECE @ Purdue
 
 - ⚡ **hstack** - hackathon skills pack for Claude Code: centralizes research, ideation, planning, and presentation so you just build
 - 📚 **brightspace-mcp-server** - MCP server for Brightspace LMS
+- 📗 **Brightspace-API** - typed, read-only Node client for D2L Brightspace (courses, grades, due dates, assignments, and more); shares config/session with brightspace-mcp-server
+- 🎓 **gradescope-mcp** - MCP server for Gradescope data access and grade analysis
 - 📌 **Piazza-MCP** - read-only MCP server for browsing Piazza course forums: feed, search, threads, attachments, and a cross-class daily digest
 - 🌍 **Purdue Campus Geoguessr** - campus geoguessr game
 - 🌱 **GreenGarden** - garden management app
